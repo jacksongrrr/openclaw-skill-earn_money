@@ -1,5 +1,5 @@
 ---
-name: openclaw-freelance-gigs
+name: openclaw-skill-earn_money
 description: >-
   Concrete workflow for freelance platforms: gatekeeping before login, skill-gap
   install paths, per-gig accept/reject checks, mandatory memo format, examples of
